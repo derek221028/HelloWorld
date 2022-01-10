@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "H:\\软件开发\\MyCode\\GitHub\\HelloWord\\HelloWord.csproj": {}
+    "H:\\软件开发\\MyCode\\GitHub\\HelloWord\\HelloWorld.csproj": {}
   },
   "projects": {
-    "H:\\软件开发\\MyCode\\GitHub\\HelloWord\\HelloWord.csproj": {
+    "H:\\软件开发\\MyCode\\GitHub\\HelloWord\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\软件开发\\MyCode\\GitHub\\HelloWord\\HelloWord.csproj",
-        "projectName": "HelloWord",
-        "projectPath": "H:\\软件开发\\MyCode\\GitHub\\HelloWord\\HelloWord.csproj",
+        "projectUniqueName": "H:\\软件开发\\MyCode\\GitHub\\HelloWord\\HelloWorld.csproj",
+        "projectName": "HelloWorld",
+        "projectPath": "H:\\软件开发\\MyCode\\GitHub\\HelloWord\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\muge\\.nuget\\packages\\",
         "outputPath": "H:\\软件开发\\MyCode\\GitHub\\HelloWord\\obj\\",
         "projectStyle": "PackageReference",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\系统工具和APP工具\\开发工具\\MYCode\\HelloWord\\HelloWord.csproj",
-      "projectName": "HelloWord",
-      "projectPath": "H:\\系统工具和APP工具\\开发工具\\MYCode\\HelloWord\\HelloWord.csproj",
+      "projectUniqueName": "H:\\软件开发\\MyCode\\GitHub\\HelloWord\\HelloWorld.csproj",
+      "projectName": "HelloWorld",
+      "projectPath": "H:\\软件开发\\MyCode\\GitHub\\HelloWord\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\muge\\.nuget\\packages\\",
-      "outputPath": "H:\\系统工具和APP工具\\开发工具\\MYCode\\HelloWord\\obj\\",
+      "outputPath": "H:\\软件开发\\MyCode\\GitHub\\HelloWord\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
