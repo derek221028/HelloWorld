@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mB39QDaV7Sppl/pZj3R/QzR8l7ise8TKPYWRnPuVi/z3CCEGzpYAtm/7RG0Mj0xfOeeA2nbWkdHGyzRlkhrnsQ==",
+  "dgSpecHash": "iWzqxuIDzY2cHpL6Yru15yaZsuu87P1gtt0MC2jrzhmb7SVtOMgbjH15gSKDrXyzDvAJCm4SYk5IeJfZFDcLCw==",
   "success": true,
-  "projectFilePath": "D:\\GitCode\\HelloWorld\\HelloWorld.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\MyCode\\VSCode\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
